@@ -1,0 +1,16 @@
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\obj\Debug\netcoreapp2.0\CoreMVC.Web.csprojResolveAssemblyReference.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Web.deps.json
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Web.runtimeconfig.json
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Web.runtimeconfig.dev.json
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Web.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Web.pdb
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Model.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Model.pdb
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\obj\Debug\netcoreapp2.0\CoreMVC.Web.csproj.CoreCompileInputs.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\obj\Debug\netcoreapp2.0\CoreMVC.Web.AssemblyInfoInputs.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\obj\Debug\netcoreapp2.0\CoreMVC.Web.AssemblyInfo.cs
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\obj\Debug\netcoreapp2.0\CoreMVC.Web.csproj.CopyComplete
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\obj\Debug\netcoreapp2.0\CoreMVC.Web.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\obj\Debug\netcoreapp2.0\CoreMVC.Web.pdb
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Database.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Web\bin\Debug\netcoreapp2.0\CoreMVC.Database.pdb

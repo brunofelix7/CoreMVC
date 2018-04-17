@@ -1,0 +1,31 @@
+@page
+
+@if(@TempData["Message"] != null){
+    <div class="alert alert-success" role="alert">
+        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+        <span class="sr-only">Success:</span>
+        @TempData["Message"]
+    </div>
+}
+<a asp-controller="customer" asp-action="form" class="btn btn-default">New</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var customer in ViewBag.Customers){
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>
+                    <a href="/customer/edit/@customer.Id">Edit</a> | 
+                    <a href="/customer/delete/@customer.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

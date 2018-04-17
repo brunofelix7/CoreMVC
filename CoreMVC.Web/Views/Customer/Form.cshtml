@@ -1,0 +1,16 @@
+@model CoreMVC.Model.Model.Customer
+
+<div style="color: red;" asp-validation-summary="All"></div>
+
+<h2>Create new customer</h2>
+
+<form class="form" asp-controller="Customer" asp-action="Form" method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input class="form-control" style="width: 20%;" placeholder="Enter your name..." asp-for="Name"/> 
+        <div>
+            <span style="color: red; font-size: 12px;" asp-validation-for="Name"></span>
+        </div>
+    </div>
+    <input class="btn btn-default" type="submit" value="Save" />
+</form>

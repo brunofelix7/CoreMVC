@@ -1,0 +1,12 @@
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\bin\Debug\netcoreapp2.0\CoreMVC.Database.deps.json
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\bin\Debug\netcoreapp2.0\CoreMVC.Database.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\bin\Debug\netcoreapp2.0\CoreMVC.Database.pdb
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\bin\Debug\netcoreapp2.0\CoreMVC.Model.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\bin\Debug\netcoreapp2.0\CoreMVC.Model.pdb
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\obj\Debug\netcoreapp2.0\CoreMVC.Database.csproj.CoreCompileInputs.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\obj\Debug\netcoreapp2.0\CoreMVC.Database.AssemblyInfoInputs.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\obj\Debug\netcoreapp2.0\CoreMVC.Database.AssemblyInfo.cs
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\obj\Debug\netcoreapp2.0\CoreMVC.Database.csproj.CopyComplete
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\obj\Debug\netcoreapp2.0\CoreMVC.Database.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\obj\Debug\netcoreapp2.0\CoreMVC.Database.pdb
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Database\obj\Debug\netcoreapp2.0\CoreMVC.Database.csprojResolveAssemblyReference.cache

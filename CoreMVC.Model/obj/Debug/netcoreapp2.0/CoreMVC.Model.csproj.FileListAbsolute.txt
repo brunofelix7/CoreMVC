@@ -1,0 +1,9 @@
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\bin\Debug\netcoreapp2.0\CoreMVC.Model.deps.json
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\bin\Debug\netcoreapp2.0\CoreMVC.Model.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\bin\Debug\netcoreapp2.0\CoreMVC.Model.pdb
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\obj\Debug\netcoreapp2.0\CoreMVC.Model.csprojResolveAssemblyReference.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\obj\Debug\netcoreapp2.0\CoreMVC.Model.csproj.CoreCompileInputs.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\obj\Debug\netcoreapp2.0\CoreMVC.Model.AssemblyInfoInputs.cache
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\obj\Debug\netcoreapp2.0\CoreMVC.Model.AssemblyInfo.cs
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\obj\Debug\netcoreapp2.0\CoreMVC.Model.dll
+C:\Users\Desenv.DESENV2\source\repos\CoreMVC\CoreMVC.Model\obj\Debug\netcoreapp2.0\CoreMVC.Model.pdb

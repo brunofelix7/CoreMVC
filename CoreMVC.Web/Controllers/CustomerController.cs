@@ -1,17 +1,15 @@
-using System.Collections.Generic;
-using System.Linq;
 using CoreMVC.Database.DAO;
 using CoreMVC.Database.DBContext;
 using CoreMVC.Model.Model;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using System.Collections.Generic;
 
 namespace CoreMVC.Web.Controllers {
 
     public class CustomerController : Controller {
 
         private readonly CustomerDAO db;
-
         private ILogger<Customer> Log;
 
         public CustomerController(AppContext _context, ILogger<Customer> log) {
